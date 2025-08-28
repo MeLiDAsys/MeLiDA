@@ -19,7 +19,7 @@ It’s a **beta version**. It was developed to test is there a way to create lig
 Beta version of MeLiDA allowed us to check our concept:
 - Stress-test Blender with massive point clouds
 - Compare LiDAR accuracy against our photogrammetry scans
-- Run real-world field scans (we use it daily in conservation work).
+- Run real-world field scans (we use it daily in conservation work)
 
 ## **The future is here!**
 (What’s next?)

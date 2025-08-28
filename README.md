@@ -25,9 +25,9 @@ Beta version of MeLiDA allowed us to check our concept:
 (What’s next?)
 
 We are currently field-testing version 1.0:
-- Auto-alignment – Scans automatically match their real-world positions.
+- Auto-alignment – Scans automatically match their real-world positions
 - Aligns new point clouds station to existing ones
-- Drift correction – Minimizes alignment errors (our top priority).
+- Drift correction – Minimizes alignment errors (our top priority)
 
 ## We need YOU!
 https://ko-fi.com/melida
